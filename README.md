@@ -1,12 +1,17 @@
-![alt text](images/logo-black.png "LPWD logo")
+<h1 align="center">
+  <br>
+  <a href="http://lpwd-intro-page.webflow.io/"><img src="images/logo-black.png" alt="LPWD logo" width="200"></a>
+  <br>
+  Intro LPWD
+  <br>
+</h1>
 
-# Intro LPWD
-
-### Simple landing page for Little Paw Web Design
+<h4 align="center">Simple landing page to introduce Little Paw Web Design.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#project">Project</a> •
+  <a href="#animation">Animation</a> •  
   <a href="#software">Software</a> •
   <a href="#contact">Contact</a>
 </p>
@@ -26,6 +31,12 @@
 The project can be viewed here:
 
 [https://lpwd-intro-page.webflow.io/](https://lpwd-intro-page.webflow.io/)
+
+## Animation
+
+Example of walking paws:
+
+![animation](https://media.giphy.com/media/zC6dITEzPIhdhcd8Nv/giphy.gif "animaiton")
 
 ## Software
 
