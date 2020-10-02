@@ -1,3 +1,7 @@
-# intro
+![alt text](https://uploads-ssl.webflow.com/5f10bf0e4368606b2323e51a/5f117b67f1354d1f863cb6b7_lpwd-logo-white-min.png "LPWD logo")
 
-Landing page for LPWD
+# Intro LPWD
+
+### Simple landing page for Little Paw Web Design.
+
+#### Inital design built with Webflow.
