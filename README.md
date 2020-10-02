@@ -4,6 +4,15 @@
 
 ### Simple landing page for Little Paw Web Design
 
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#project">Project</a> •
+  <a href="#software">Software</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+![screenshot](images/screenshot.png "screenshot")
+
 ## Key features
 
 - Initial design built with Webflow.
@@ -11,8 +20,6 @@
 - email to encourage visitors to say hi!
 - cute animaltion with little paws walking across screen.
 - Nothing too fancy, it's just a landing page.
-
-![screenshot](images/screenshot.png "screenshot")
 
 ## Project
 
@@ -25,6 +32,8 @@ The project can be viewed here:
 - [Webflow](https://webflow.com)
 
 ---
+
+## Contact
 
 > [littlepawwebdesign.com](https://www.littlepawwebdesign.com) &nbsp;&middot;&nbsp;
 > GitHub [@littlepawwebdesign](https://github.com/littlepawwebdesign)
